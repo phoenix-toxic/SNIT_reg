@@ -253,7 +253,7 @@ animation: glowing 1000ms infinite;
 .booking-form .booking-bg{
 position: absolute;
 	left: 0;
-	top: -38px;
+	top: 1px;
 	bottom: 100px;
 	width: 100%;
 	background-size: 100% 100%;
